@@ -21,9 +21,9 @@ procesos manuales o web scrapping complejo.
 ## Arquitectura de los datos
 El esquema diseñado para el proyecto fue creado bajo el principio de integirdad referencial
 el cual facilita el análisis con identificadores únicos.
-* **Equipos: ** Información principal (estadios, fundación, nombre)
-* **Partidos: ** Registro de cada jornada, reultados y estado del partido
-* **Clasificación: ** Tabla de posiciones con puntos, partidos jugados, goles
+* **Equipos:** Información principal (estadios, fundación, nombre)
+* **Partidos:** Registro de cada jornada, reultados y estado del partido
+* **Clasificación:** Tabla de posiciones con puntos, partidos jugados, goles
 
 
 ## Lógica del proceso 
